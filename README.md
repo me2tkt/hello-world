@@ -1,2 +1,2 @@
 # hello-world
-tuttorial
+This is the readme for the github tutorial
